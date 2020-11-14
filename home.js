@@ -5,7 +5,7 @@ var topp = document.querySelector('.top');
 var bottom = document.querySelector('.bottom');
 var crates = document.querySelector('.crates');
 var cursor = document.querySelector('.big');
-var page = 'home';
+var page = 'index';
 
 window.onload = function(){
 	cursor.style.borderColor = 'orange';
