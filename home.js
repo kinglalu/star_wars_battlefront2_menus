@@ -204,7 +204,7 @@ function moveCursorDown(){
 		cursor.style.borderColor = 'orange';
 		return cursor;
 	}
-	if(cursor.nodeName === 'BUTTON' && page === 'home'){
+	if(cursor.nodeName === 'BUTTON' && page === 'index'){
 		cursor.style.color = 'rgb(217, 220, 224)';
 		cursor.style.borderColor = 'rgb(217, 220, 224)';
 		var pos = cursor.getAttribute('pin');
