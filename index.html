@@ -10,6 +10,10 @@
   <body>
 <div id="particles-js"></div>
 <script src="particles.js"></script>
+	           /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+          particlesJS.load('particles-js', 'particles.json', function() {
+          console.log('particlesjs loaded.......');
+          });
     <nav>
 	  <a href="options.html"><button class="bumpers" id="previous" role="navigation" title="previous">Previous</button></a>
 		  <button id="index" pin="1" class="selected nav c1">Home</button
