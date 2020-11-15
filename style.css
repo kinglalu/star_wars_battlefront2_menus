@@ -1,4 +1,13 @@
-@font-face {font-family: "Circular Std Bold"; src: url("//db.onlinewebfonts.com/t/961a181da27e7cbc072ec2fb5bbfe2a9.woff2") format("woff2");  }
+@font-face{
+	font-family: "Circular Std Bold"; 
+	src: url("//db.onlinewebfonts.com/t/961a181da27e7cbc072ec2fb5bbfe2a9.woff2");
+	format("woff2"); 
+}
+
+div {
+	font-family: "Circular Std Bold";
+}
+
 body {
 	background-image: url('images/home_bg.jpg');
 	background-attachment: fixed;
@@ -81,7 +90,6 @@ button {
 	background-image: url('images/big.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
-	@font-face {font-family: "Circular Std Bold"; src: 
 }
 
 .top {
