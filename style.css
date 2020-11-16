@@ -18,7 +18,7 @@ div {
 }
 .main {
   z-index: 9;
-
+}
 body {
 	background-image: url('images/nothing.PNG');
 	background-attachment: fixed;
