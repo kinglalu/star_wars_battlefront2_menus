@@ -108,13 +108,6 @@ button {
 	background-repeat: no-repeat;
 	color: white;
 }
-a:hover {
-  color: yellow;
-}
-
-a.nohover {
-color: white;
-}
 
 .top {
 	position: absolute;
