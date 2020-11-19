@@ -106,6 +106,7 @@ button {
 	background-image: url('images/big.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
+	color: yellow;
 }
 
 .top {
